@@ -3,8 +3,8 @@
 - เว็บไซต์แนะนําสินค้าแบบ Responsive สร้างด้วย HTML และ TailwindCSS
 # command in lab
 - git config --global user.name "Ritthikiat"
-- git config --global user.email "66160014@go.buu.ac.th"
-- git clone https://github.com/Kimrtk08/product-landing-page
+- git config --global user.email "66160121@go.buu.ac.th"
+- git clone https://github.com/66160121/product-landing-page.git
 - git add .
 - git commit -m "สร้างโครงสร้างโปรเจคเริ่มต้น"
 - git add .
